@@ -38,3 +38,4 @@ namespace MathTaskClassLibrary
         public void MemorySubtract(double value) => MemoryValue -= value;
     }
 }
+//Исправление багов

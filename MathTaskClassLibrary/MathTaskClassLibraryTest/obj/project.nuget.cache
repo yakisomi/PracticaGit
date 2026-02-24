@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YdAICJElRZU=",
+  "dgSpecHash": "R/qkPR/4yFc=",
   "success": true,
-  "projectFilePath": "H:\\ПиТПМ\\MathTaskClassLibrary\\MathTaskClassLibraryTest\\MathTaskClassLibraryTest.csproj",
+  "projectFilePath": "D:\\Учеба 3 курс\\МДК.01.02 Поддерж. и тестиров. ПМ\\PracticaGit\\PracticaGit\\MathTaskClassLibrary\\MathTaskClassLibraryTest\\MathTaskClassLibraryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\232909072092-11\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\232909072092-11\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
