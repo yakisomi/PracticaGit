@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u041F\u0438\u0422\u041F\u041C\\MathTaskClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74FE04E-296E-4EDF-9C24-32C5D951DF8C}|MathTaskClassLibrary\\MathTaskClassLibrary.csproj|h:\\\u043F\u0438\u0442\u043F\u043C\\mathtaskclasslibrary\\mathtaskclasslibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74FE04E-296E-4EDF-9C24-32C5D951DF8C}|MathTaskClassLibrary\\MathTaskClassLibrary.csproj|solutionrelative:mathtaskclasslibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA17D225-26E7-4C3E-9CF0-2796FF924FBC}|MathTaskClassLibraryTest\\MathTaskClassLibraryTest.csproj|h:\\\u043F\u0438\u0442\u043F\u043C\\mathtaskclasslibrary\\mathtaskclasslibrarytest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA17D225-26E7-4C3E-9CF0-2796FF924FBC}|MathTaskClassLibraryTest\\MathTaskClassLibraryTest.csproj|solutionrelative:mathtaskclasslibrarytest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "H:\\\u041F\u0438\u0422\u041F\u041C\\MathTaskClassLibrary\\MathTaskClassLibraryTest\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "MathTaskClassLibraryTest\\CalculatorTest.cs",
+              "ToolTip": "H:\\\u041F\u0438\u0422\u041F\u041C\\MathTaskClassLibrary\\MathTaskClassLibraryTest\\CalculatorTest.cs",
+              "RelativeToolTip": "MathTaskClassLibraryTest\\CalculatorTest.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAADwvyoBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:04:51.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "H:\\\u041F\u0438\u0422\u041F\u041C\\MathTaskClassLibrary\\MathTaskClassLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "MathTaskClassLibrary\\Calculator.cs",
+              "ToolTip": "H:\\\u041F\u0438\u0422\u041F\u041C\\MathTaskClassLibrary\\MathTaskClassLibrary\\Calculator.cs",
+              "RelativeToolTip": "MathTaskClassLibrary\\Calculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T07:56:37.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
